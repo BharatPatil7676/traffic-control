@@ -10,7 +10,7 @@ Components Used
 - 2 Red LEDs
 - 2 Yellow LEDs
 - 2 Green LEDs
-- 6 Resistors
+- 6 Resistors(211 ohm)
 
 Pin Connections
 
