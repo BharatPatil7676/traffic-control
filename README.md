@@ -49,6 +49,17 @@ Components Used
 
 Pin Connections
 
+Road A:
+
+- Green → Pin 2
+- Yellow → Pin 3
+- Red → Pin 4
+
+Road B:
+
+- Green → Pin 5
+- Yellow → Pin 6
+- Red → Pin 7
 
 Working
 
